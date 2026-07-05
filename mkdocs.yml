@@ -1,16 +1,58 @@
 site_name: Puppet Documentation
+site_description: Official documentation for PuppetAPI and Chzzk Zomboid Donation Mod
 site_url: https://t3qquq.github.io/PuppetDocs/
+repo_url: https://github.com/t3qquq/PuppetDocs
+repo_name: t3qquq/PuppetDocs
 
 theme:
   name: material
   language: ko
+
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.top
+    - navigation.instant
+
     - search.highlight
     - search.suggest
+    - search.share
+
     - content.code.copy
+    - content.code.annotate
+
+    - toc.follow
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 다크 모드
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 라이트 모드
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - md_in_html
+
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
 
 nav:
   - 홈: index.md
