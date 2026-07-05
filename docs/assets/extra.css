@@ -1,5 +1,27 @@
 .md-header .md-header__button.md-logo img,
 .md-header .md-logo img {
-  height: 128px;
+  height: 32px;
   width: auto;
+}
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  margin: 40px 0;
+}
+
+.home-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 12px;
+  padding: 24px;
+  transition: 0.2s;
+}
+
+.home-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--md-shadow-z2);
+}
+
+.home-card h2 {
+  margin-top: 0;
 }
