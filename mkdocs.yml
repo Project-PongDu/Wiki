@@ -1,0 +1,16 @@
+site_name: Puppet Documentation
+site_url: https://t3qquq.github.io/PuppetDocs/
+
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - 홈: index.md
