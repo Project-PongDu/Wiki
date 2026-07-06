@@ -79,10 +79,17 @@ nav:
 
   - 모드 기능 ( API ):
       - 개요: mod-features/overview.md
-      - 후원 이벤트: mod-features/donation-events.md
-      - NPC: mod-features/npc.md
-      - 아이템: mod-features/items.md
-      - 엔딩: mod-features/endings.md
+      - 버프 룰렛 (1,000원): mod-features/buff-roulette.md
+      - 디버프 룰렛 (2,000원): mod-features/debuff-roulette.md
+      - 좀비 룰렛 (3,000원): mod-features/zombie-roulette.md
+      - 백신 (7,000원): mod-features/vaccine.md
+      - 스프린터 5마리 (10,000원): mod-features/sprinter5.md
+      - 적대 NPC 근접 (20,000원): mod-features/bandit-melee.md
+      - 신체 강화 혈청 (30,000원): mod-features/random-skill-potion.md
+      - 특수좀비 소환 (40,000원): mod-features/mutant-spawn.md
+      - 적대 NPC 원거리 (50,000원): mod-features/bandit-ranged.md
+      - 미사일 폭격 (150,000원): mod-features/missile.md
+      - 강령술 (200,000원): mod-features/rise-up-dead-man.md
 
   - FAQ:
       - 자주 묻는 질문: faq/faq.md
