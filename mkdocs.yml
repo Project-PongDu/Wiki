@@ -1,13 +1,13 @@
-site_name: Puppet Documentation
+site_name: PonDu
 site_description: Official documentation for PuppetAPI and Chzzk Zomboid Donation Mod
-site_url: https://t3qquq.github.io/PuppetDocs/
+site_url: https://t3qquq.github.io/PonDu/
 
 theme:
   name: material
   language: ko
 
-  logo: assets/images/pupp3t_ico_logo.png
-  favicon: assets/images/PuppetAPI_smart.ico
+  logo: assets/images/pongdu.ico
+  favicon: assets/images/pongdu.ico
 
   features:
     - navigation.tabs
