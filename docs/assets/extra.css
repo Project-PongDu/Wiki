@@ -1,17 +1,21 @@
-/* 퐁듀 테마 - 치즈/오렌지 웜톤 */
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #c1712b;
-  --md-primary-fg-color--light: #e0a668;
-  --md-primary-fg-color--dark: #8a4e1b;
-  --md-primary-bg-color: #fffaf3;
-  --md-primary-bg-color--light: #fffaf3;
+  /* Header */
+  --md-primary-fg-color: #f8d86a;
+  --md-primary-fg-color--light: #ffe89a;
+  --md-primary-fg-color--dark: #d6af35;
 
-  --md-accent-fg-color: #d98e1e;
-  --md-accent-fg-color--transparent: #d98e1e1a;
-  --md-accent-bg-color: #1a1305;
-  --md-accent-bg-color--light: #1a1305;
+  /* Header Text */
+  --md-primary-bg-color: #4f2f14;
+  --md-primary-bg-color--light: #69401d;
 
-  --md-typeset-a-color: #b5651d;
+  /* Accent */
+  --md-accent-fg-color: #ffb42d;
+  --md-accent-fg-color--transparent: #ffb42d22;
+  --md-accent-bg-color: #2c1807;
+  --md-accent-bg-color--light: #2c1807;
+
+  /* Links */
+  --md-typeset-a-color: #d67b00;
 }
 
 [data-md-color-scheme="slate"] {
@@ -29,6 +33,17 @@
   --md-accent-bg-color--light: #1a1305;
 
   --md-typeset-a-color: #f2b705;
+}
+
+.hero {
+  background-color: #fffde5;
+  padding: 40px 20px;
+  margin: 40px 0;
+  border-radius: 16px;
+}
+
+[data-md-color-scheme="slate"] .hero {
+  background-color: #2a2110;
 }
 
 .md-header .md-header__button.md-logo img,

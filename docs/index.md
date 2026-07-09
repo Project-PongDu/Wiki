@@ -1,9 +1,11 @@
-<div align="center" style="margin:40px 0;">
-  <img src="assets/images/pupp3t_ico_logo.png" width="128">
-  <h1>Project Zomboid</h1>
+<div class="hero" align="center">
+  <img src="assets/images/poster.png" width="128">
+  <!-- <h1 class="logo"><img src="assets/images/logo.png" height=50px> X <img src="assets/images/chzzk-01-1536x1152.png"></h1> -->
   <h3> 치지직 도네이션 연동 시스템</h3>
-  <p>Project Zomboid와 치지직 후원을 실시간으로 연동하여<br>
-  NPC, 아이템, 이벤트 등 다양한 게임 내 상호작용 기능을 제공합니다.</p>
+  <p>
+    Project Zomboid와 치지직 후원을 실시간으로 연동하여<br>
+    NPC, 아이템, 이벤트 등 다양한 게임 내 상호작용 기능을 제공합니다.
+  </p>
 </div>
 
 ---
@@ -49,11 +51,11 @@
 
 ## 💻 지원 환경
 
-| 항목        | 지원                 |
-| ----------- | -------------------- |
-| 운영체제    | Windows 10 / 11      |
+| 항목        | 지원                       |
+| ----------- | -------------------------- |
+| 운영체제    | Windows 10 / 11            |
 | 게임        | Project Zomboid 41.x (B41) |
-| 방송 플랫폼 | CHZZK                |
+| 방송 플랫폼 | CHZZK                      |
 
 ---
 
