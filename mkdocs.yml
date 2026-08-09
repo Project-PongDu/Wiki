@@ -1,6 +1,6 @@
 site_name: PongDu
-site_description: Official documentation for PuppetAPI and Chzzk Zomboid Donation Mod
-site_url: https://t3qquq.github.io/PonDu/
+site_description: 퐁듀 - Project Zomboid B41 치지직 후원연동 시스템 공식 문서
+site_url: https://project-pongdu.github.io/Wiki/
 
 theme:
   name: material
@@ -77,19 +77,29 @@ nav:
       - PZ 원클릭 최적화: pongdu-launcher/pz-optimization.md
       - 문제 해결: pongdu-launcher/troubleshooting.md
 
-  - 모드 기능 ( API ):
+  - 퐁듀 모드:
       - 개요: mod-features/overview.md
-      - 버프 룰렛 (1,000원): mod-features/buff-roulette.md
-      - 디버프 룰렛 (2,000원): mod-features/debuff-roulette.md
-      - 좀비 룰렛 (3,000원): mod-features/zombie-roulette.md
-      - 백신 (7,000원): mod-features/vaccine.md
-      - 스프린터 5마리 (10,000원): mod-features/sprinter5.md
-      - 적대 NPC 근접 (20,000원): mod-features/bandit-melee.md
-      - 신체 강화 혈청 (30,000원): mod-features/random-skill-potion.md
-      - 특수좀비 소환 (40,000원): mod-features/mutant-spawn.md
-      - 적대 NPC 원거리 (50,000원): mod-features/bandit-ranged.md
-      - 미사일 폭격 (150,000원): mod-features/missile.md
-      - 강령술 (200,000원): mod-features/rise-up-dead-man.md
+      - 개인 후원:
+          - 버프 룰렛: mod-features/buff-roulette.md
+          - 디버프 룰렛: mod-features/debuff-roulette.md
+          - 랜덤 무기: mod-features/random-weapon.md
+          - 좀비 룰렛: mod-features/zombie-roulette.md
+          - 백신: mod-features/vaccine.md
+          - 차량 공중보급: mod-features/vehicle-drop.md
+          - 뛰좀 소환: mod-features/sprinter5.md
+          - 랜덤 텔레포트: mod-features/random-teleport.md
+          - 강화 혈청: mod-features/random-skill-potion.md
+          - 특수좀비 소환: mod-features/mutant-spawn.md
+          - 인벤토리 세이브 티켓: mod-features/inv-save-ticket.md
+          - 화력지원 룰렛: mod-features/fire-support.md
+          - 미사일 폭격: mod-features/missile.md
+          - 좀비 레인: mod-features/zombie-rain.md
+          - 강령술: mod-features/rise-up-dead-man.md
+      - 서버 후원:
+          - 의약품 랜덤박스: mod-features/medical-box.md
+          - 호드나이트: mod-features/horde-night.md
+      - 기타:
+          - 암살자 파견: mod-features/bandit.md
 
   - FAQ:
       - 자주 묻는 질문: faq/faq.md
