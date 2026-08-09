@@ -27,4 +27,4 @@
 
 ## 설계 원칙 (참고)
 
-퐁듀는 치지직 API 호출부(`ChzzkpySource`)와 게임 출력부(`ZomboidAdapter`)가 분리된 구조입니다. 그 사이를 `DonationWorker`로 연결하여, 다른 게임으로 확장할 여지를 열어두고 디자인하였습니다.
+퐁듀는 치지직 공식 Open API 호출부(`ChzzkOfficialSource`)와 게임 출력부(`ZomboidAdapter`)가 분리된 구조입니다. 그 사이를 `DonationWorker`로 연결하여, 다른 게임으로 확장할 여지를 열어두고 디자인하였습니다.
