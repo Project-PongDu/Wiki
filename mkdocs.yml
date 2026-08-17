@@ -72,9 +72,9 @@ nav:
   - 퐁듀 런처:
       - 개요: pongdu-launcher/overview.md
       - 채널 연동: pongdu-launcher/channel.md
-      - rewards.txt 경로: pongdu-launcher/rewards-path.md
+      - 파일 경로: pongdu-launcher/rewards-path.md
       - 리워드 티어: pongdu-launcher/reward-tiers.md
-      - PZ 원클릭 최적화: pongdu-launcher/pz-optimization.md
+      - PZ 게임 최적화: pongdu-launcher/pz-optimization.md
       - 문제 해결: pongdu-launcher/troubleshooting.md
 
   - 퐁듀 모드:
@@ -88,7 +88,7 @@ nav:
           - 차량 공중보급: mod-features/vehicle-drop.md
           - 뛰좀 소환: mod-features/sprinter5.md
           - 랜덤 텔레포트: mod-features/random-teleport.md
-          - 강화 혈청: mod-features/random-skill-potion.md
+          - 스킬 각성제: mod-features/random-skill-potion.md
           - 특수좀비 소환: mod-features/mutant-spawn.md
           - 인벤토리 세이브 티켓: mod-features/inv-save-ticket.md
           - 화력지원 룰렛: mod-features/fire-support.md
@@ -97,6 +97,7 @@ nav:
           - 강령술: mod-features/rise-up-dead-man.md
       - 서버 후원:
           - 의약품 랜덤박스: mod-features/medical-box.md
+          - 블러드문: mod-features/blood-moon.md
           - 호드나이트: mod-features/horde-night.md
       - 기타:
           - 암살자 파견: mod-features/bandit.md
