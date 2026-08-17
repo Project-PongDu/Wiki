@@ -72,7 +72,7 @@ nav:
   - 퐁듀 런처:
       - 개요: pongdu-launcher/overview.md
       - 채널 연동: pongdu-launcher/channel.md
-      - 파일 경로: pongdu-launcher/rewards-path.md
+      - 저장 위치: pongdu-launcher/rewards-path.md
       - 리워드 티어: pongdu-launcher/reward-tiers.md
       - PZ 게임 최적화: pongdu-launcher/pz-optimization.md
       - 문제 해결: pongdu-launcher/troubleshooting.md
