@@ -82,8 +82,11 @@ nav:
       - 개인 후원:
           - 버프 룰렛: mod-features/buff-roulette.md
           - 디버프 룰렛: mod-features/debuff-roulette.md
+          - 식량 보급: mod-features/food-supply.md
           - 랜덤 무기: mod-features/random-weapon.md
           - 좀비 룰렛: mod-features/zombie-roulette.md
+          - 즉시 치유: mod-features/instant-heal.md
+          - 랜덤 부상: mod-features/random-injury.md
           - 백신: mod-features/vaccine.md
           - 차량 공중보급: mod-features/vehicle-drop.md
           - 뛰좀 소환: mod-features/sprinter5.md
@@ -93,7 +96,7 @@ nav:
           - 인벤토리 세이브 티켓: mod-features/inv-save-ticket.md
           - 화력지원 룰렛: mod-features/fire-support.md
           - 미사일 폭격: mod-features/missile.md
-          - 좀비 레인: mod-features/zombie-rain.md
+          - 좀비 공습: mod-features/zombie-rain.md
           - 강령술: mod-features/rise-up-dead-man.md
       - 서버 후원:
           - 의약품 랜덤박스: mod-features/medical-box.md
