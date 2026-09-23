@@ -1,6 +1,6 @@
 # 좀비 룰렛
 
-`zombie_roulette` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-id"><code>zombie_roulette</code></span></p>
 
 룰렛 연출 후 좀비가 소환됩니다. 마릿수는 룰렛 결과에 따라 무작위로 정해집니다.
 

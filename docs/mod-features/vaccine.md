@@ -1,6 +1,6 @@
 # 백신
 
-`vaccine` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--help">도움 효과</span><span class="pd-id"><code>vaccine</code></span></p>
 
 후원자 이름이 붙은 **좀복시비르 앰퓰**을 즉시 지급합니다. (예: `홍길동's 좀복시비르 앰퓰`)
 

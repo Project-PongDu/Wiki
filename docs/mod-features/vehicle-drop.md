@@ -1,6 +1,6 @@
 # 차량 공중보급
 
-`vehicle_drop` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--help">도움 효과</span><span class="pd-id"><code>vehicle_drop</code></span></p>
 
 **차량 보급 키트**를 지급합니다. 우클릭으로 개봉하면 근처 빈 공터에 차량 1대가 무작위로 투하되고, 캐릭터가 투하 위치 좌표를 외칩니다.
 

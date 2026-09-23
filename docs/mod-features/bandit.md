@@ -1,6 +1,6 @@
 # 암살자 파견
 
-`bandit_melee` / `bandit_ranged` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-tag pd-tag--off">기본 꺼짐</span><span class="pd-id"><code>bandit_melee</code> <code>bandit_ranged</code></span></p>
 
 무장한 적대 NPC 무리를 소환합니다.
 

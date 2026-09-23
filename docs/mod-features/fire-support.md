@@ -1,6 +1,6 @@
 # 화력지원 룰렛
 
-`fire_support` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--help">도움 효과</span><span class="pd-id"><code>fire_support</code></span></p>
 
 주변 좀비를 정리해 주는 **지원 사격**입니다. 발동 시 아래 중 하나가 무작위로 뽑히며, 어떤 것이 나왔는지 캐릭터가 외칩니다.
 

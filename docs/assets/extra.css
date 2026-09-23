@@ -83,3 +83,69 @@
   padding-bottom: 0.3em;
   margin-bottom: 0.8em;
 }
+
+/* ── 사이드바: 섹션 제목(개인 후원 / 서버 후원 / 기타)과 하위 항목 구분 ──
+   탭 아래 2단계 섹션(data-md-level="1" 안의 section)에만 적용한다.
+   최상위 탭 제목(퐁듀 모드 등)은 건드리지 않는다. */
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary .md-nav[data-md-level="1"] > .md-nav__list > .md-nav__item--section > label.md-nav__link {
+    margin-top: 1.4em;
+    padding-bottom: 0.35em;
+    border-bottom: 2px solid var(--md-accent-fg-color);
+    color: var(--md-default-fg-color);
+    font-weight: 800;
+    font-size: 0.74rem;
+    opacity: 1;
+  }
+
+  .md-nav--primary .md-nav[data-md-level="1"] > .md-nav__list > .md-nav__item--section > .md-nav > .md-nav__list {
+    margin: 0.5em 0 0 0.3rem;
+    padding-left: 0.6rem;
+    border-left: 2px solid var(--md-default-fg-color--lightest);
+  }
+
+  .md-nav--primary .md-nav[data-md-level="2"] .md-nav__link {
+    font-size: 0.66rem;
+  }
+
+  .md-nav--primary .md-nav[data-md-level="2"] .md-nav__link--active {
+    font-weight: 700;
+  }
+}
+
+/* ── 기능 페이지 상단 분류 태그 ── */
+.md-typeset .pd-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4em;
+  margin: -0.2em 0 1.4em;
+}
+
+.md-typeset .pd-tag {
+  display: inline-block;
+  padding: 0.15em 0.7em;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.6;
+  border: 1px solid transparent;
+}
+
+.md-typeset .pd-tag--personal { background: #fff1d6; color: #9a5600; border-color: #f3c77a; }
+.md-typeset .pd-tag--server   { background: #fde2e2; color: #a61b1b; border-color: #f2a7a7; }
+.md-typeset .pd-tag--help     { background: #e3f4e6; color: #1f6b2e; border-color: #a6d8b0; }
+.md-typeset .pd-tag--harm     { background: #efe6f7; color: #5b2a86; border-color: #c9aee3; }
+.md-typeset .pd-tag--off      { background: #eeeeee; color: #555555; border-color: #cccccc; }
+
+[data-md-color-scheme="slate"] .md-typeset .pd-tag--personal { background: #3a2a10; color: #f5c46b; border-color: #6b4d1a; }
+[data-md-color-scheme="slate"] .md-typeset .pd-tag--server   { background: #3d1a1a; color: #f29b9b; border-color: #6e2c2c; }
+[data-md-color-scheme="slate"] .md-typeset .pd-tag--help     { background: #16301c; color: #8fd6a0; border-color: #2d5a37; }
+[data-md-color-scheme="slate"] .md-typeset .pd-tag--harm     { background: #2a1c3a; color: #c9a6ec; border-color: #4d3469; }
+[data-md-color-scheme="slate"] .md-typeset .pd-tag--off      { background: #2b2b2b; color: #aaaaaa; border-color: #444444; }
+
+.md-typeset .pd-id {
+  margin-left: 0.3em;
+  font-size: 0.8em;
+  color: var(--md-default-fg-color--light);
+}

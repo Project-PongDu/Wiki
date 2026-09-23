@@ -1,6 +1,6 @@
 # 미사일 폭격
 
-`missile` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-id"><code>missile</code></span></p>
 
 지정 반경에 폭격을 가하는, 가장 파괴력 있는 개인 후원 기능입니다.
 

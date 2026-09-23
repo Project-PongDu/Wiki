@@ -1,6 +1,6 @@
 # 랜덤 텔레포트
 
-`random_teleport` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-id"><code>random_teleport</code></span></p>
 
 플레이어를 **멀리 떨어진 곳으로 강제 이동**시킵니다. 어디로 보낼지는 서버 설정의 방식에 따라 다릅니다.
 

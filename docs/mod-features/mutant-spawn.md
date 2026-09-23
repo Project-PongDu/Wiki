@@ -1,6 +1,6 @@
 # 특수좀비 소환
 
-`mutant_spawn` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-id"><code>mutant_spawn</code></span></p>
 
 일반 좀비와 다른 **특수좀비 4종 중 하나**를 무작위로 소환합니다.
 

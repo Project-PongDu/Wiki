@@ -1,6 +1,6 @@
 # 의약품 랜덤박스
 
-`medical_box` · **서버 후원**
+<p class="pd-meta"><span class="pd-tag pd-tag--server">서버 후원</span><span class="pd-tag pd-tag--help">도움 효과</span><span class="pd-id"><code>medical_box</code></span></p>
 
 **서버장에게** 후원이 들어오면 서버 접속자 **전원**이 의약품 보급상자를 1개씩 받습니다.
 

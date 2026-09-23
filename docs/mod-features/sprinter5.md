@@ -1,6 +1,6 @@
 # 뛰좀 소환
 
-`sprinter5` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-id"><code>sprinter5</code></span></p>
 
 **뛰는 좀비**를 곧바로 소환합니다. [좀비 룰렛](zombie-roulette.md)과 달리 연출 없이 설정한 수만큼 정확히 나옵니다.
 

@@ -1,6 +1,6 @@
 # 호드나이트
 
-`horde_night` · **서버 후원**
+<p class="pd-meta"><span class="pd-tag pd-tag--server">서버 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-id"><code>horde_night</code></span></p>
 
 **서버장에게** 후원이 들어오면 그날 밤 서버 전역에 **대규모 좀비 떼가 몰려옵니다.**
 

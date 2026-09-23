@@ -1,6 +1,6 @@
 # 스킬 각성제
 
-`random_skill_potion` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--help">도움 효과</span><span class="pd-id"><code>random_skill_potion</code></span></p>
 
 후원자 이름이 붙은 각성제 1개를 지급합니다. 마시면 해당 스킬 레벨이 즉시 올라갑니다.
 

@@ -1,6 +1,6 @@
 # 강령술
 
-`rise_up_dead_man` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-id"><code>rise_up_dead_man</code></span></p>
 
 플레이어 주변 반경 안의 **좀비 시체를 되살립니다.**
 

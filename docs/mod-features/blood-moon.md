@@ -1,6 +1,6 @@
 # 블러드문
 
-`blood_moon` · **서버 후원**
+<p class="pd-meta"><span class="pd-tag pd-tag--server">서버 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-id"><code>blood_moon</code></span></p>
 
 **서버장에게** 후원이 들어오면 일정 시간 동안 서버 전체가 핏빛으로 물들고, **모든 좀비가 뛰기 시작합니다.**
 

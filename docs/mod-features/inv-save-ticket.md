@@ -1,6 +1,6 @@
 # 인벤토리 세이브 티켓
 
-`inv_save_ticket` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--help">도움 효과</span><span class="pd-id"><code>inv_save_ticket</code></span></p>
 
 티켓을 가진 상태로 죽으면 티켓 1장을 소모하고, **죽을 때 가지고 있던 짐을 부활 후 그대로 돌려받습니다.**
 

@@ -1,6 +1,6 @@
 # 랜덤 무기
 
-`random_weapon` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--help">도움 효과</span><span class="pd-id"><code>random_weapon</code></span></p>
 
 **근접 무기 상자** 또는 **원거리 무기 상자**를 50:50 확률로 지급합니다. 우클릭으로 개봉하면 무기가 나옵니다.
 

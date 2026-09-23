@@ -1,6 +1,6 @@
 # 즉시 치유
 
-`instant_heal` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--help">도움 효과</span><span class="pd-id"><code>instant_heal</code></span></p>
 
 몸에 있는 **모든 부상을 그 자리에서 없애고** 부위별 체력을 가득 채웁니다. 캐릭터가 "상처가 사라졌다!"라고 외칩니다.
 

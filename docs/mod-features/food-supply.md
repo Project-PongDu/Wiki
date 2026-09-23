@@ -1,6 +1,6 @@
 # 식량 보급
 
-`food_supply` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--help">도움 효과</span><span class="pd-id"><code>food_supply</code></span></p>
 
 서버장이 정한 **음식 아이템을 정해진 개수만큼** 인벤토리에 바로 넣어줍니다. 기본은 감자칩 5개입니다.
 

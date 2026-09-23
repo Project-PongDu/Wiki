@@ -1,6 +1,6 @@
 # 좀비 공습
 
-`zombie_rain` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-id"><code>zombie_rain</code></span></p>
 
 플레이어 주변에 **좀비가 하늘에서 떨어집니다.** 정해진 시간 동안 계속 낙하하며, 남은 시간이 화면에 표시됩니다.
 

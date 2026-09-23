@@ -1,6 +1,6 @@
 # 랜덤 부상
 
-`random_injury` · 개인 후원
+<p class="pd-meta"><span class="pd-tag pd-tag--personal">개인 후원</span><span class="pd-tag pd-tag--harm">방해 효과</span><span class="pd-id"><code>random_injury</code></span></p>
 
 **무작위 부위에 무작위 부상**을 입힙니다. 캐릭터가 "(부위)에 (부상)!" 형태로 어디에 무엇을 입었는지 외칩니다.
 
